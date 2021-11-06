@@ -1,5 +1,10 @@
-# Tombol-Home-Termux-
+# terkey
+
+
 pkg update && pkg upgrade
-pkg install python
-git clone https://github.com/SUBUR78990/Tombol-Home-Termux-.git
-python 
+
+git clone https://github.com/M3C4NIX/terkey
+
+python2 terkey.py
+
+enjoy....
